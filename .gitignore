@@ -3,6 +3,7 @@
 node_modules/
 build
 .DS_Store
+.env.local
 *.tgz
 my-app*
 template/src/__tests__/__snapshots__/
